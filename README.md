@@ -1,16 +1,26 @@
-<!-- ======================= BANNER ======================= -->
+<!-- ======================= NEON 3D BANNER ======================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:00c6ff&height=260&section=header&text=Hoai%20Thu&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:00c6ff,100:00ffd5&height=300&section=header&text=Hoai%20Thu&desc=Full-Stack%20Web%20Developer&fontSize=60&fontColor=ffffff&descSize=20&animation=twinkling&fontAlignY=35" />
 </p>
 
-<!-- ======================= TYPING ======================= -->
+<!-- ======================= TYPING AI ======================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00C6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Java+%7C+PHP+%7C+Node.js+%7C+React;FPT+Aptech+Student;Building+Scalable+Web+Applications;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00FFD5&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Java+%7C+PHP+%7C+Node.js+%7C+React;FPT+Aptech+Student;Building+3D+Web+Experiences;Future+Software+Engineer" />
 </p>
 
-<!-- ======================= VISITOR ======================= -->
+<!-- ======================= VISITOR COUNTER ======================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tramanh2245&style=flat-square&color=blueviolet" />
+</p>
+
+<!-- ======================= PORTFOLIO & CV ======================= -->
+<p align="center">
+  <a href="https://tramanh2245.github.io">
+    <img src="https://img.shields.io/badge/3D%20PORTFOLIO-LIVE-7f00ff?style=for-the-badge&logo=three.js&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/19mz3GDMBFroG1dWEBzT2HOU1klI1Ojy6/view">
+    <img src="https://img.shields.io/badge/CV-DOWNLOAD-00ffd5?style=for-the-badge&logo=adobeacrobatreader"/>
+  </a>
 </p>
 
 ---
@@ -20,31 +30,30 @@
 💻 **Full-Stack Web Developer** *(Java, PHP, Node.js, React)*  
 🚀 Aspiring **Software Engineer**
 
-🌐 **3D Portfolio:** https://tramanh2245.github.io  
 📫 **Email:** thuvu4415@gmail.com  
-
-<p align="center">
-  <a href="https://tramanh2245.github.io">
-    <img src="https://img.shields.io/badge/3D%20Portfolio-Visit-7f00ff?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/19mz3GDMBFroG1dWEBzT2HOU1klI1Ojy6/view">
-    <img src="https://img.shields.io/badge/CV-Download-00c853?style=for-the-badge&logo=adobeacrobatreader"/>
-  </a>
-</p>
+🌐 **Portfolio:** https://tramanh2245.github.io  
 
 ---
 
 ## 🧑‍💻 About Me
-I am an Information Technology student at **FPT Aptech Academy** (Semester 3), specializing in **Full-Stack Web Development**.  
+I am an Information Technology student at **FPT Aptech Academy** (Semester 3), majoring in **Full-Stack Web Development**.  
 I will graduate in **2026** with an **Advanced Diploma in Software Engineering (ADSE)**.
 
-I am a fast learner, highly responsible, and always eager to learn from others while contributing to real-world projects.
+I’m a fast learner, responsible, and highly motivated to learn from others while contributing to real-world projects.
 
 ---
 
-## 🛠 Tech Stack
+## 🧬 3D Tech Stack (Orbiting)
 
-### 🚀 Languages & Frameworks
+<p align="center">
+  <img src="https://github-profile-tech-stack.vercel.app/api?username=tramanh2245&theme=dark&animation=orbit&speed=2&size=large" />
+</p>
+
+---
+
+## 🚀 Skills
+
+### Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
@@ -52,17 +61,12 @@ I am a fast learner, highly responsible, and always eager to learn from others w
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
-### 🌐 Web Technologies
+### Web
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-</p>
-
-<!-- 3D Tech Stack -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,nodejs,react,html,css,js,git,github,mysql,vscode,figma&perline=6" />
 </p>
 
 ---
@@ -90,10 +94,10 @@ Pet adoption management system.
 ---
 
 ## 📚 Currently Learning
-- Advanced **React.js** patterns  
-- **Backend & Database** optimization  
-- **Cloud & Deployment**  
-- Real-world **System Design**
+- Advanced **React.js**
+- Backend & Database Optimization
+- Cloud Deployment
+- System Design
 
 ---
 
@@ -104,8 +108,12 @@ Pet adoption management system.
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tramanh2245&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tramanh2245&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -115,4 +123,28 @@ Pet adoption management system.
 
 ---
 
-⭐ **Thank you for visiting my profile — feel free to explore my projects and 3D portfolio!**
+## 🌍 3D Contribution Globe
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=tramanh2245&theme=dark&bg_color=0D1117&area=true&line_color=00ffd5" />
+</p>
+
+---
+
+## ⚡ GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tramanh2245&bg_color=0D1117&color=00ffd5&line=7f00ff&point=00ffd5&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tramanh2245&theme=matrix&no-frame=true&row=1" />
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile — see you in my 3D portfolio 🚀**
