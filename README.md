@@ -131,11 +131,6 @@ Pet adoption management system.
 
 ---
 
-## ⚡ GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tramanh2245&bg_color=0D1117&color=00ffd5&line=7f00ff&point=00ffd5&area=true&hide_border=true" />
-</p>
 
 ---
 
