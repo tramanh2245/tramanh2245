@@ -1,5 +1,5 @@
 <!-- =========================================================
-     ✨ HOAI THU — MODERN 3D GITHUB PROFILE (STABLE)
+     ✨ HOAI THU — MODERN 3D GITHUB PROFILE
 ========================================================== -->
 
 <p align="center">
@@ -27,24 +27,31 @@
 ---
 
 ## 👋 Hi, I'm **Hoai Thu**
-🎓 IT Student at **FPT Aptech Academy**  
+
+🎓 **IT Student** at **FPT Aptech Academy**  
 💻 **Full-Stack Web Developer** *(Java, PHP, Node.js, React)*  
 🚀 Aspiring **Software Engineer**
 
-📫 **Email:** thuvu4415@gmail.com  
-🌐 **Portfolio:** https://tramanh2245.github.io  
+> I build web apps, break things, fix them, and learn in the process.  
+> Turning ideas into features and errors into experience.
 
 ---
 
 ## 🧑‍💻 About Me
-I am a **Full-Stack Web Development** student at **FPT Aptech Academy**, expected to graduate in **2026** with an **Advanced Diploma in Software Engineering (ADSE)**.
 
-I enjoy building modern web applications with clean UI, scalable backend, and optimized performance.
+- 🎓 Full-Stack Web Development student (ADSE – Graduation **2026**)
+- 🌍 Based in **Ho Chi Minh City**
+- 🧠 Focused on **real-world systems**, not just tutorials
+- 🛠️ Clean code enthusiast & problem solver
+- 📈 Always learning, always improving
+- ☕ Powered by curiosity and caffeine
+
+**📫 Email:** thuvu4415@gmail.com  
+**🌐 Portfolio:** https://tramanh2245.github.io  
 
 ---
 
-## 🧬 3D Technology Overview
-> Stable 3D-style visualization (no animation – no crash)
+## 🧬 Tech Stack (3D-style Overview)
 
 <p align="center">
   <img width="720" src="https://skillicons.dev/icons?i=java,php,nodejs,react,html,css,js,tailwind,mysql,git&theme=dark" />
@@ -54,21 +61,28 @@ I enjoy building modern web applications with clean UI, scalable backend, and op
 
 ## 🚀 Featured Projects
 
-### 📚 BookiBoo – Book Shop Management System
+### 📚 BookiBoo — Book Shop Management System
 🔗 https://github.com/tramanh2245/bookiboo  
 **Tech:** PHP, MySQL, React  
-
-### 🌸 JavaFlorist – Flower Shop Platform
-🔗 https://github.com/tramanh2245/Java-Florist  
-**Tech:** Java, Web Application  
-
-### 🐶 PetCare – TechWiz Hackathon
-🔗 https://github.com/dohung95/PetCare  
-**Role:** Frontend + Backend (Adoption module)
+> Full-stack system for managing books, customers, and orders.
 
 ---
 
-## 📊 GitHub Analytics (3D-style Cards)
+### 🌸 JavaFlorist — Flower Shop Platform
+🔗 https://github.com/tramanh2245/Java-Florist  
+**Tech:** ASP.NET Core Web API, React, SQL Server  
+> Real-world e-commerce platform with order & partner management.
+
+---
+
+### 🐶 PetCare — TechWiz Hackathon
+🔗 https://github.com/dohung95/PetCare  
+**Teach:** Frontend (React) + Backend (Node.js), SQL  
+> Pet adoption management system — Adoption module owner.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tramanh2245&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -81,7 +95,8 @@ I enjoy building modern web applications with clean UI, scalable backend, and op
 
 ---
 
-## 🌍 3D Contribution Map (Stable)
+## 🌍 Contribution Activity (3D-style)
+
 <p align="center">
   <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=tramanh2245&theme=tokyo-night&hide_border=true" />
 </p>
@@ -89,6 +104,7 @@ I enjoy building modern web applications with clean UI, scalable backend, and op
 ---
 
 ## 🏆 GitHub Trophy
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tramanh2245&theme=darkhub&no-frame=true&row=1" />
 </p>
