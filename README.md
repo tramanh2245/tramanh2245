@@ -32,7 +32,7 @@
 
 ## 👋 Hi, I'm **Hoai Thu**
 🎓 IT Student at **FPT Aptech Academy**  
-💻 **Full-Stack Web Developer** *(Java / PHP / Node.js / React)*  
+💻 **Full-Stack Web Developer** *(Java / Spring-boot / Node.js / React / Flutter)*  
 🌍 Ho Chi Minh City  
 
 > I build web apps, break things, fix them — and learn fast.
