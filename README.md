@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFD5&center=true&vCenter=true&width=760&lines=Java+%7C+PHP+%7C+Node.js+%7C+React;Building+Real-World+Web+Apps;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFD5&center=true&vCenter=true&width=760&lines=Java+%7C+flutter+%7C+Node.js+%7C+React;Building+Real-World+Web+Apps;Always+Learning+%26+Improving" />
 </p>
 
 <!-- ======================= CTA ======================= -->
@@ -51,7 +51,7 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,nodejs,react,html,css,js,tailwind,mysql,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,react,flutter,git&theme=dark" />
 </p>
 
 ---
